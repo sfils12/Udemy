@@ -10,20 +10,20 @@ for (let i = 0; i < examScores.length; i++) {
 // Same idea, but with a more complex array
 const myStudents = [
 	{
-		firstName : 'Zeus',
-		grade     : 86
+		firstName: 'Zeus',
+		grade: 86
 	},
 	{
-		firstName : 'Artemis',
-		grade     : 97
+		firstName: 'Artemis',
+		grade: 97
 	},
 	{
-		firstName : 'Hera',
-		grade     : 72
+		firstName: 'Hera',
+		grade: 72
 	},
 	{
-		firstName : 'Apollo',
-		grade     : 90
+		firstName: 'Apollo',
+		grade: 90
 	}
 ];
 
